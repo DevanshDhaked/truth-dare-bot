@@ -1,0 +1,22 @@
+{
+  "name": "truth-dare-bot",
+  "version": "1.0.0",
+  "description": "Truth Or Dare Bot for discord",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon index.js"
+  },
+  "keywords": [
+    "Discord.js",
+    "Discord Bot"
+  ],
+  "author": "ArmoredVortex",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
